@@ -1,7 +1,14 @@
-[<img src="https://drive.google.com/file/d/189kmnHG8hXONdJ8hPT0db9_bPSGFfwU8/view?usp=sharing" width="900"/>](https://drive.google.com/file/d/189kmnHG8hXONdJ8hPT0db9_bPSGFfwU8/view?usp=sharing)
+[<img src="https://github.com/SevilayMuni/e-commerce-fraud-detection/blob/main/images/cover-image.png" height = "400" width="800"/>](https://github.com/SevilayMuni/e-commerce-fraud-detection/blob/main/images/cover-image.png)
 # Fraud Detection from Customer Transactions
 
 This project focuses on detecting fraudulent transactions in e-commerce data provided by Vesta Corporation. The goal is to build a robust machine learning model to classify transactions as fraudulent or non-fraudulent accurately.
+<div align="center"> 
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" >
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" >
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" >
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" >
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" >
+</div>
 
 ## Key Challenges
 - **Highly Imbalanced Dataset:** The dataset is severely imbalanced, with only a tiny fraction of fraudulent transactions (3% of dataset). This requires special handling to ensure the model does not become biased towards the majority class.
